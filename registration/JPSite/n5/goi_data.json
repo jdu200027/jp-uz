@@ -1,0 +1,302 @@
+[
+{
+    "id": 1,
+    "Kgoi": "食べる",
+    "Fgoi": "たべる",
+    "Ugoi": "Yemoq"
+},
+{
+    "id": 2,
+    "Kgoi": "飲む",
+    "Fgoi": "のむ",
+    "Ugoi": "Ichmoq"
+},
+{
+    "id": 3,
+    "Kgoi": "見る",
+    "Fgoi": "みる",
+    "Ugoi": "Ko'rmoq"
+},
+{
+    "id": 4,
+    "Kgoi": "私",
+    "Fgoi": "わたし",
+    "Ugoi": "Men"
+},
+{
+    "id": 5,
+    "Kgoi": "皆さん",
+    "Fgoi": "みなさん",
+    "Ugoi": "Hamma"
+},
+{
+    "id": 6,
+    "Kgoi": "先生",
+    "Fgoi": "せんせい",
+    "Ugoi": "Ustoz"
+},
+{
+    "id": 7,
+    "Kgoi": "学生",
+    "Fgoi": "がくせい",
+    "Ugoi": "Talaba"
+},
+{
+    "id": 8,
+    "Kgoi": "会社",
+    "Fgoi": "かいしゃ",
+    "Ugoi": "Kompaniya"
+},
+{
+    "id": 9,
+    "Kgoi": "大学",
+    "Fgoi": "だいがく",
+    "Ugoi": "Universitet"
+},
+{
+    "id": 10,
+    "Kgoi": "病院",
+    "Fgoi": "びょういん",
+    "Ugoi": "Shifoxona"
+},
+{
+    "id": 11,
+    "Kgoi": "電気",
+    "Fgoi": "でんき",
+    "Ugoi": "Chiroq"
+},
+{
+    "id": 12,
+    "Kgoi": "本",
+    "Fgoi": "ほん",
+    "Ugoi": "Kitob"
+},
+{
+    "id": 13,
+    "Kgoi": "辞書",
+    "Fgoi": "じしょ",
+    "Ugoi": "Lug'at"
+},
+{
+    "id": 14,
+    "Kgoi": "新聞",
+    "Fgoi": "しんぶん",
+    "Ugoi": "Gazeta"
+},
+{
+    "id": 15,
+    "Kgoi": "時計",
+    "Fgoi": "とけい",
+    "Ugoi": "Soat"
+},
+{
+    "id": 16,
+    "Kgoi": "英語",
+    "Fgoi": "えいご",
+    "Ugoi": "ingliz tili"
+},
+{
+    "id": 17,
+    "Kgoi": "日本",
+    "Fgoi": "にほん",
+    "Ugoi": "Yaponiya"
+},
+{
+    "id": 18,
+    "Kgoi": "何",
+    "Fgoi": "なん",
+    "Ugoi": "Nima"
+},
+{
+    "id": 19,
+    "Kgoi": "教室",
+    "Fgoi": "きょうしつ",
+    "Ugoi": "Sinf"
+},
+{
+    "id": 20,
+    "Kgoi": "食堂",
+    "Fgoi": "しょくどう",
+    "Ugoi": "Oshxona"
+},
+{
+    "id":21,
+    "Kgoi": "事務所",
+    "Fgoi": "じむしょ",
+    "Ugoi": "Ofis"
+},
+{
+    "id": 22,
+    "Kgoi": "受付",
+    "Fgoi": "うけつけ",
+    "Ugoi": "Qabulxona"
+},
+{
+    "id": 23,
+    "Kgoi": "階段",
+    "Fgoi": "かいだん",
+    "Ugoi": "Zina"
+},
+{
+    "id": 24,
+    "Kgoi": "お国",
+    "Fgoi": "おくに",
+    "Ugoi": "Mamlakat"
+},
+{
+    "id": 25,
+    "Kgoi": "電話",
+    "Fgoi": "でんわ",
+    "Ugoi": "Telifon"
+},
+{
+    "id": 26,
+    "Kgoi": "起きる",
+    "Fgoi": "おきる",
+    "Ugoi": "Uyg'onmoq"
+},
+{
+    "id": 27,
+    "Kgoi": "寝る",
+    "Fgoi": "ねる",
+    "Ugoi": "Uxlamoq"
+},
+{
+    "id": 28,
+    "Kgoi": "働く",
+    "Fgoi": "はたらく",
+    "Ugoi": "Ishlamoq"
+},
+{
+    "id": 29,
+    "Kgoi": "休む",
+    "Fgoi": "やすむ",
+    "Ugoi": "Dam olmoq"
+},
+{
+    "id": 30,
+    "Kgoi": "勉強する",
+    "Fgoi": "べんきょうする",
+    "Ugoi": "Dars qilmoq"
+},
+{
+    "id": 31,
+    "Kgoi": "銀行",
+    "Fgoi": "ぎんこう",
+    "Ugoi": "Bank"
+},
+{
+    "id": 32,
+    "Kgoi": "図書館",
+    "Fgoi": "としょかん",
+    "Ugoi": "Kutubxona"
+},
+{
+    "id": 33,
+    "Kgoi": "今",
+    "Fgoi": "いま",
+    "Ugoi": "Hozir"
+},
+{
+    "id": 34,
+    "Kgoi": "何時",
+    "Fgoi": "なんじ",
+    "Ugoi": "Soat nechi"
+},
+{
+    "id": 35,
+    "Kgoi": "分",
+    "Fgoi": "ふん",
+    "Ugoi": "Daqiqa"
+},
+{
+    "id": 36,
+    "Kgoi": "半",
+    "Fgoi": "はん",
+    "Ugoi": "Yarim"
+},
+{
+    "id": 37,
+    "Kgoi": "朝",
+    "Fgoi": "あさ",
+    "Ugoi": "Tong"
+},
+{
+    "id": 38,
+    "Kgoi": "昼",
+    "Fgoi": "ひる",
+    "Ugoi": "Tush"
+},
+{
+    "id": 39,
+    "Kgoi": "晩",
+    "Fgoi": "ばん",
+    "Ugoi": "Kech"
+},
+{
+    "id": 40,
+    "Kgoi": "毎朝",
+    "Fgoi": "まいあさ",
+    "Ugoi": "Har tong"
+},
+{
+    "id": 41,
+    "Kgoi": "毎晩",
+    "Fgoi": "まいばん",
+    "Ugoi": "Har kuni kechqurun"
+},
+{
+    "id": 42,
+    "Kgoi": "毎日",
+    "Fgoi": "まいにち",
+    "Ugoi": "Har kuni"
+},
+{
+    "id": 43,
+    "Kgoi": "月曜日",
+    "Fgoi": "げつようび",
+    "Ugoi": "Dushanba"
+},
+{
+    "id": 44,
+    "Kgoi": "火曜日",
+    "Fgoi": "かようび",
+    "Ugoi": "Seshanba"
+},
+{
+    "id": 45,
+    "Kgoi": "水曜日",
+    "Fgoi": "すいようび",
+    "Ugoi": "Chorshanba"
+},
+{
+    "id": 46,
+    "Kgoi": "木曜日",
+    "Fgoi": "もくようび",
+    "Ugoi": "Payshanba"
+},
+{
+    "id": 47,
+    "Kgoi": "金曜日",
+    "Fgoi": "きんようび",
+    "Ugoi": "Juma"
+},
+{
+    "id": 48,
+    "Kgoi": "土曜日",
+    "Fgoi": "どようび",
+    "Ugoi": "Shanba"
+},
+{
+   "id": 49,
+   "Kgoi": "日曜日",
+   "Fgoi": "にちようび",
+   "Ugoi": "Yakshanba"
+},
+{
+   "id": 50,
+   "Kgoi": "何曜日",
+   "Fgoi": "なんようび",
+   "Ugoi": "Haftaning qaysi kuni"
+}
+]

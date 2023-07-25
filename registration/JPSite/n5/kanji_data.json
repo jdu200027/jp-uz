@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "kanji": "食べる",
+        "furigana": "たべる"
+    },
+    {
+        "id": 2,
+        "kanji": "飲む",
+        "furigana": "のむ"
+    },
+    {
+        "id": 3,
+        "kanji": "書く",
+        "furigana": "かく"
+    },
+    {
+        "id": 4,
+        "kanji": "出る",
+        "furigana": "でる"
+    },
+    {
+        "id": 5,
+        "kanji": "見る",
+        "furigana": "みる"
+    },
+    {
+        "id": 6,
+        "kanji": "先生",
+        "furigana": "せんせい"
+    }
+    ,
+    {
+        "id": 7,
+        "kanji": "学生",
+        "furigana": "がくせい"
+    }
+    ,
+    {
+        "id": 8,
+        "kanji": "会社",
+        "furigana": "かいしゃ"
+    },
+    {
+        "id": 9,
+        "kanji": "大学",
+        "furigana": "だいがく"
+    },
+    {
+        "id": 10,
+        "kanji": "一",
+        "furigana": "いち"
+    },
+    {
+        "id": 11,
+        "kanji": "二",
+        "furigana": "に"
+    },
+    {
+        "id": 12,
+        "kanji": "三",
+        "furigana": "さん"
+    },
+    {
+        "id": 13,
+        "kanji": "四",
+        "furigana": "し/よん"
+    },
+    {
+        "id": 14,
+        "kanji": "五",
+        "furigana": "ご"
+    },
+    {
+        "id": 15,
+        "kanji": "六",
+        "furigana": "ろく"
+    },
+    {
+        "id": 16,
+        "kanji": "七",
+        "furigana": "なな/しち"
+    },
+    {
+        "id": 17,
+        "kanji": "八",
+        "furigana": "はち"
+    },
+    {
+        "id": 18,
+        "kanji": "九",
+        "furigana": "く/きゅう"
+    },
+    {
+        "id": 19,
+        "kanji": "十",
+        "furigana": "じゅう"
+    },
+    {
+        "id": 20,
+        "kanji": "口",
+        "furigana": "くち"
+    }
+]

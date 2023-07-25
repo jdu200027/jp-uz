@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+.container-fluid{
+    .row{
+        .n-level{
+            height: 15rem;
+            width: 15rem;
+            margin: 2rem;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+    }
+    footer{
+        position: relative;
+        top: 285px;
+    }
+}
+@media screen and (max-width: 400px) {
+    .container-fluid {
+        .row{
+            .n-level{
+                height: 9rem;
+                width: 9rem;
+                margin: 1rem;
+                color: white;    
+            }
+        }
+    }
+}
